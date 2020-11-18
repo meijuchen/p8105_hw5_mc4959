@@ -77,7 +77,7 @@ results_df =
   select(city_state, estimate, conf.low, conf.high)
 ```
 
-
+Make a plot
 
 ```{r}
 results_df %>% 
