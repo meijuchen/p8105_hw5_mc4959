@@ -132,10 +132,14 @@ lda_df %>%
   labs(
     title = 'Observations on each subject over time', 
     x = "Week(s)",
-    y = "Observation Value")
+    y = "Observation Value(s)")
 ```
 
 According to the spaghetti plot above, we can see that two arms of subjects have similar initial observations. However, in the following weeks, control values are more stable than experimental ones, and the observation values of experimental arm are generally higher than those of control arm.
+
+
+
+
 
 
 
